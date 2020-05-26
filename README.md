@@ -1,2 +1,2 @@
 # Python
-Python learning exercises
+This folder contains all exercises solved as part of Python learning.
