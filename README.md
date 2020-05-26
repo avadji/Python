@@ -1,2 +1,2 @@
 # Python
-This folder contains all exercises solved as part of Python learning.
+This repository contains all exercises solved as part of Python learning.
